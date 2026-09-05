@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kcm2112007.github.io/Doxemi-Free-Online-Document-Tools/sitemap.xml
